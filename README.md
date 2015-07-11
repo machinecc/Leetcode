@@ -1,3 +1,3 @@
 # leetcode
 
-Leetcode solutions in C++
+leetcode solutions in C++
